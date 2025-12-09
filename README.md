@@ -32,7 +32,7 @@
   <a href="https://x.com/mohdismailx27" target="_blank">
     <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&color=black" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/mohammedismail02" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/mohammedismailahmed02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=black" />
   </a>
   <a href="mailto:mismailahmed46@gmail.com" target="_blank">
