@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Hi there 👋 I'm Mohammed Ismail Ahmed </h1> 
-<h3> Full Stack Web Developer </h3> </div>
+<h3> Full Stack Developer </h3> </div>
 
 ---
 
