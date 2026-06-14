@@ -1,11 +1,11 @@
 <div align="center">
 <h1> Hi there 👋 I'm Mohammed Ismail Ahmed </h1> 
-<h3> Full Stack Developer </h3> </div>
+<h3> Backend Developer </h3> </div>
 
 ---
 
 ### 👤 About Me:
-<p>I’m Final Year Student and Full-Stack Developer passionate about building impactful solutions. I work with Python, Django, PostgreSQL, and Node.js, while strengthening my skills in HTML, CSS, and JavaScript. I enjoy building projects that solve real problems and exploring new technologies. I believe in learning by doing—constantly. </p>
+<p>I’m Final Year Student and Backend Developer passionate about building impactful solutions. I work with Python, Django, PostgreSQL, and Node.js, while strengthening my skills in HTML, CSS, and JavaScript. I enjoy building projects that solve real problems and exploring new technologies. I believe in learning by doing—constantly. </p>
 
 - 🌍 I'm based in **Hyderabad, India**  
 - 🔭 Currently working on Student-Focused Platform
